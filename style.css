@@ -102,4 +102,12 @@ h1 {
     left: 50%;
     transform: translateX(-50%);
   }
+
+  body {
+    background-image: url('./img/asad.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
 }
